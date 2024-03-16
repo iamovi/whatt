@@ -71,7 +71,7 @@ import('translate').then(({ default: translate }) => {
 
     // Check if text and target languages are provided
     if (!text || targetLanguages.length === 0) {
-        console.error('Usage: node translator.js <text_to_translate> <target_language1> <target_language2> ...');
+        console.error('Usage: whatt <text_to_translate> <target_language1> <target_language2> ...');
         process.exit(1);
     }
 
