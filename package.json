@@ -1,14 +1,14 @@
 {
-  "name": "whatts",
+  "name": "whatt",
   "version": "1.0.0",
-  "description": "",
+  "description": "cli_translator",
   "main": "bin/translator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["cli_translator"],
+  "author": "Maruf OVi",
+  "license": "MIT",
   "bin": {
     "whatt": "bin/translator.js"
   },
